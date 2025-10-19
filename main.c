@@ -6,7 +6,7 @@
 #include <curl/curl.h>
 #include <json-c/json.h>
 
-#define API_KEY "AIzaSyCk1NI0aRkpXokmKXVoYAunPPYwf9UmDZ8"
+#define API_KEY ""
 #define GEMINI_API_URL "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key="
 #define MAX_RESPONSE_SIZE 65536
 
